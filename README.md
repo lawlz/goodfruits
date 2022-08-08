@@ -7,3 +7,6 @@ Spectral by HTML5 UP
 html5up.net | @ajlkn
 
 
+## Live Site
+
+The site for this repo to see what it looks like, can be found [here](http://www.goodfruits.org/).
